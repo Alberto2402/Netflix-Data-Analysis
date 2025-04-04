@@ -1,9 +1,6 @@
 # Netflix-Data-Analysis
 An interactive dashboard analyzing Netflix movies and TV shows using Tableau
 
-# Netflix-Data-Analysis
-an interactive dashboard analyzing Netflix movies and TV shows using Tableau
-
 ## 🔍 Project Overview  
 This project presents an interactive **Netflix Movies & TV Shows Analysis Dashboard**, built using **Power BI**/**Tableau**. The dashboard provides insights into Netflix's content library, helping to visualize trends, genre distributions, ratings, and geographical representation of movies and TV shows.  
 
